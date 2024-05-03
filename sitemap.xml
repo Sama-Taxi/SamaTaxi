@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>http://samataxi.co/index.html</loc>
+    <lastmod>2024-05-03</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://samataxi.co/images/3750%20-converted--01.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://samataxi.co/images/phone%20mock.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://samataxi.co/images/sama%20taxia-01.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://samataxi.co/images/airpod.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://samataxi.co/images/app03-01.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://samataxi.co/images/app03-02.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://samataxi.co/images/16.png</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>http://samataxi.co/assets/%D8%B3%D9%85%D8%A7-%D8%AA%D8%A7%D9%83%D8%B3%D9%8A.mp4</loc>
+    <lastmod>2024-05-01</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+</urlset>
