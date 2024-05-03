@@ -1,0 +1,116 @@
+<manifest alg="2" build="2018.1.1.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="samataxi.co" resolutions="1x" timestamp="1714754655694">
+  <folder name="css">
+    <file name="site_global.css" crc="8089578"/>
+    <file name="index.css" crc="237810565" ref="index"/>
+  </folder>
+  <folder name="assets">
+    <file name="سما-تاكسي.mp4" crc="64028289" seo="true" mt="1714550634000"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="phone>index:tablet>index:index"/>
+    <file name="museutils.js" crc="3939489907" ref="phone>index:tablet>index:index"/>
+    <file name="whatinput.js" crc="86476730" ref="phone>index:tablet>index:index"/>
+    <file name="museconfig.js" crc="3936894949" ref="phone>index:tablet>index:index"/>
+    <file name="jquery.watch.js" crc="522499760" ref="phone>index:tablet>index:index"/>
+    <file name="require.js" crc="4177726516" ref="phone>index:tablet>index:index"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="85124417" ref="index"/>
+    <file name="jquery.musemenu.js" crc="4139692962" ref="index"/>
+    <file name="jquery.scrolleffects.js" crc="312044820" ref="index"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index"/>
+  </folder>
+  <folder name="images">
+    <file name="3750 -converted--01.png" crc="4264469616" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="phone mock.png" crc="4110637575" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="sama taxia-01.png" crc="4176197012" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u5224-4.png" crc="3800334896" ref="index"/>
+    <file name="u5079-4.png" crc="4262426075" ref="index"/>
+    <file name="u5076-4.png" crc="141865260" ref="index"/>
+    <file name="u5118-4.png" crc="4154022777" ref="index"/>
+    <file name="u5121-4.png" crc="4219156292" ref="index"/>
+    <file name="09.png" crc="498482107" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="08.png" crc="98262526" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="07.png" crc="3916488612" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u236-4.png" crc="3847073043" ref="index"/>
+    <file name="u238-4.png" crc="135668573" ref="index"/>
+    <file name="06.png" crc="450378317" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="05.png" crc="117046874" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="04.png" crc="3765367919" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u5203-4.png" crc="410201572" ref="index"/>
+    <file name="u5200-5.png" crc="3985628990" ref="index"/>
+    <file name="airpod.png" crc="475295807" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u5470-7.png" crc="398214200" ref="index"/>
+    <file name="blank.gif" crc="4208392903" ref="index"/>
+    <file name="u5489_states.png" crc="437289709" ref="index"/>
+    <file name="u5489_states-r.png" crc="523722262" ref="index"/>
+    <file name="app03-01.svg" crc="4223085003" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="app03-01_poster_.png" crc="4045909227" ref="index"/>
+    <file name="u5495_states.png" crc="491262619" ref="index"/>
+    <file name="u5495_states-r.png" crc="3931999982" ref="index"/>
+    <file name="app03-02.svg" crc="322592637" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="app03-02_poster_.png" crc="3829151502" ref="index"/>
+    <file name="u7163-4.png" crc="259185227" ref="index"/>
+    <file name="u7164-4.png" crc="3885603441" ref="index"/>
+    <file name="u7162_states.png" crc="491262619" ref="index"/>
+    <file name="u7162_states-r.png" crc="3931999982" ref="index"/>
+    <file name="u7160_states.png" crc="437289709" ref="index"/>
+    <file name="u7160_states-r.png" crc="523722262" ref="index"/>
+    <file name="u106-6.png" crc="429427562" ref="index"/>
+    <file name="u227-6.png" crc="4001668791" ref="index"/>
+    <file name="u230_states.png" crc="236246887" ref="index"/>
+    <file name="u230_states-r.png" crc="3998168409" ref="index"/>
+    <file name="u190.png" crc="3855423431" ref="index"/>
+    <file name="u190-r.png" crc="4215232192" ref="index"/>
+    <file name="u190-a.png" crc="439051741" ref="index"/>
+    <file name="u198.png" crc="4287460373" ref="index"/>
+    <file name="u198-r.png" crc="30674834" ref="index"/>
+    <file name="u198-a.png" crc="4159282031" ref="index"/>
+    <file name="u206.png" crc="128321395" ref="index"/>
+    <file name="u206-r.png" crc="385741517" ref="index"/>
+    <file name="u206-a.png" crc="480185649" ref="index"/>
+    <file name="u1706.png" crc="303211795" ref="index"/>
+    <file name="u1706-r.png" crc="191837339" ref="index"/>
+    <file name="u1706-a.png" crc="4082867508" ref="index"/>
+    <file name="16.png" crc="363739894" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+  </folder>
+  <folder name="tablet">
+    <folder name="css">
+      <file name="index.css" crc="4046498137" ref="tablet>index"/>
+    </folder>
+    <file name="index.html" crc="161164264" seo="true" mt="1407282716505" redirect="false"/>
+  </folder>
+  <folder name="phone">
+    <folder name="css">
+      <file name="index.css" crc="263663261" ref="phone>index"/>
+    </folder>
+    <file name="index.html" crc="274949003" seo="true" mt="1407282697538" redirect="false"/>
+  </folder>
+  <file name="index.html" crc="4224940473" seo="true" mt="1714754621238" redirect="true"/>
+</manifest>
