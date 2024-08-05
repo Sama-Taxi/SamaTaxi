@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://samataxi.co/index.html</loc>
-    <lastmod>2024-05-03</lastmod>
+    <lastmod>2024-08-05</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -25,6 +25,15 @@
     </image:image>
     <image:image>
       <image:loc>http://samataxi.co/images/16.png</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>http://samataxi.co/privacy-policy.html</loc>
+    <lastmod>2024-08-05</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://samataxi.co/images/sama%20taxia-01.png</image:loc>
     </image:image>
   </url>
   <url>
